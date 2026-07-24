@@ -223,16 +223,3 @@ It is intentionally built so that live REST polling works on free hosting tiers 
 - richer factor diagnostics and walk-forward evaluation
 - alert delivery through email, Telegram, or Slack
 
-## Why This Project Matters
-
-RegimeGuard AI is a stronger crypto systems project than a generic exchange dashboard because it combines:
-
-- live market monitoring
-- quant backtesting
-- regime-shift detection
-- agent-style orchestration
-- strategy watchdog logic
-- risk and execution awareness
-- AI-style incident analysis
-
-That makes it a useful portfolio project for roles touching quant tooling, trading infrastructure, market intelligence, or AI-assisted operations.
